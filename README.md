@@ -1,1 +1,1 @@
-# game-of-nerds
+# quiz-of-thrones
